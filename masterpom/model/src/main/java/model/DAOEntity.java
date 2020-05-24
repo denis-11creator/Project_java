@@ -85,3 +85,4 @@ abstract class DAOEntity<E extends Entity> {
 	public abstract E find(String code);
 
 }
+kl
