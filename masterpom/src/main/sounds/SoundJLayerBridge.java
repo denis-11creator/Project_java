@@ -18,6 +18,7 @@ public class SoundJLayerBridge extends PlaybackListener implements Runnable {
     private String filePath;
     private AdvancedPlayer player;
     private Thread playerThread;
+    
 
     /**
      * Class constructor
