@@ -11,6 +11,7 @@ import java.util.Observable;
  */
 public class Controller implements KeyListener{
 
+	
 public boolean ZKey = false;
 public boolean QKey = false; 
 public boolean SKey = false; 
