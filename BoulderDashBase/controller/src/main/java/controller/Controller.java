@@ -29,6 +29,7 @@ public boolean EscapeKey = false;
 	public void keyPressed(KeyEvent e) {
 		// TODO Auto-generated method stub
 		if(e.getKeyCode() == KeyEvent.VK_Z){
+			
 			ZKey=true;
 			System.out.println("z");
 		}
