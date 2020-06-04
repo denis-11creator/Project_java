@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="contract.IView" project="BoulderDash" 
+    file="/BoulderDash/src/contract/IView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="150" x="215" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="contract.LevelRemove" project="BoulderDash" 
+    file="/BoulderDash/src/contract/LevelRemove.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="183" x="405" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" language="java" name="contract.ControllerOrder" project="BoulderDash" 
+    file="/BoulderDash/src/contract/ControllerOrder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="152" x="628" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" language="java" name="contract.LevelLoad" project="BoulderDash" 
+    file="/BoulderDash/src/contract/LevelLoad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1017" width="357" x="820" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="contract.LevelSelector" project="BoulderDash" 
+    file="/BoulderDash/src/contract/LevelSelector.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="203" x="1217" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="contract.ModelConvert" project="BoulderDash" 
+    file="/BoulderDash/src/contract/ModelConvert.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="263" x="1460" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="contract.AudioLoad" project="BoulderDash" 
+    file="/BoulderDash/src/contract/AudioLoad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="300" x="1763" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" name="contract.IController" project="BoulderDash" 
+    file="/BoulderDash/src/contract/IController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="195" x="2103" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="contract.LevelSave" project="BoulderDash" 
+    file="/BoulderDash/src/contract/LevelSave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="291" x="2338" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="contract.IModel" project="BoulderDash" 
+    file="/BoulderDash/src/contract/IModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="164" x="2669" y="-301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

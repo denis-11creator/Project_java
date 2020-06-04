@@ -32,7 +32,7 @@ public class SoundJLayerBridge extends PlaybackListener implements Runnable {
     /**
      * Play the target sound
      */
-    public void play() {
+    public void player() {
         try {
             String urlAsString = "file:///"
                                + new java.io.File(".").getCanonicalPath()

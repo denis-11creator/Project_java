@@ -50,7 +50,7 @@ public class AudioLoad {
         this.musicToPlay = new SoundJLayerBridge(
                 this.getMusicPathInAudioStore(musicId)
         );
-        this.musicToPlay.play();
+        this.musicToPlay.player();
     }
 
     /**
@@ -104,6 +104,6 @@ public class AudioLoad {
      * @param  soundId  Sound identifier
      */
     public void playSound(String soundId) {
-        this.getPreloadedSound(soundId).play();
+        this.getPreloadedSound(soundId).player();
     }
 }
