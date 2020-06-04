@@ -22,6 +22,7 @@ public boolean EscapeKey = false;
 
 	public Controller(){
 		
+		
 	}
 
 	@Override
